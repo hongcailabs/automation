@@ -40,7 +40,7 @@ body:
     attributes:
       label: GitHub ID
       description: The GitHub ID for joining the karmada-adopter-group team on GitHub.
-      placeholder: ex. awesomeuser
+      placeholder: ex. @example_user
     validations:
       required: true
   - type: input
